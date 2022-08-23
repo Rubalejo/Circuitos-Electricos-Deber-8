@@ -30,3 +30,4 @@
 
 **RUBRICA**
 
+![image](https://user-images.githubusercontent.com/105680588/186182258-7bcb8398-858a-4256-9925-33fb6ae73cda.png)
