@@ -8,6 +8,10 @@
 
 **Objetivo General**
 
+* Estudiar la impedancia de un circuito RC en serie.
+
+
+
 **Objetivo Especifico**
 
 **2. MARCO TEORICO**
