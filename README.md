@@ -8,11 +8,15 @@
 
 **Objetivo General**
 
-* Estudiar la impedancia de un circuito RC en serie.
-
-
+* En los Capítulos 15 y 16 del Libro de Floyd estaremos estudiando relación entre corriente y voltaje en un circuito RL en serie y describir la relación entre corriente y voltaje en un circuito RC en Serie.
 
 **Objetivo Especifico**
+
+* Estudiar la impedancia de un circuito RC en serie.
+
+* Comprender su relación de la corriente y voltaje en un circuito en serie
+
+* Con el Video realizado por mi persona Reconocer reconoceremos de manera más detallada los conceptos previamente mencionados y sus respectivos ejercicios.
 
 **2. MARCO TEORICO**
 
@@ -43,6 +47,9 @@
 **5. CONCLUSIONES**
 
 **6. BIBLIOGRAFÍA**
+
+Floyd, T. (2007). Principios de circuitos eléctricos. 
+https://drive.google.com/file/d/15UCq2JrPEKKB8SwajlmtTcE07nMiowaK/view
 
 **RUBRICA**
 
