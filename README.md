@@ -121,6 +121,8 @@ https://youtu.be/vL3RbnJooG0
 
 **5. CONCLUSIONES**
 
+* Con la ayuda de los conceptos dados en hora de clase y con los ejercicios propuestos por el libro de Floyd se pudo realizar de una mejor manera y comprender a su vez la relación entre corriente y voltaje en un circuito RL en serie y describir la relación entre corriente y voltaje en un circuito RC en Serie.
+
 **6. BIBLIOGRAFÍA**
 
 Floyd, T. (2007). Principios de circuitos eléctricos. 
