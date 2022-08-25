@@ -16,7 +16,7 @@
 
 * Comprender su relación de la corriente y voltaje en un circuito en serie
 
-* Con el Video realizado por mi persona Reconocer reconoceremos de manera más detallada los conceptos previamente mencionados y sus respectivos ejercicios.
+* Con el Video realizado por mi persona reconoceremos de manera más detallada los conceptos previamente mencionados y sus respectivos ejercicios.
 
 **2. MARCO TEORICO**
 
